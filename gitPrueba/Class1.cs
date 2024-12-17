@@ -8,6 +8,6 @@ namespace gitPrueba
 {
     internal class Class1
     {
-
+        //Nuevo comentario
     }
 }
